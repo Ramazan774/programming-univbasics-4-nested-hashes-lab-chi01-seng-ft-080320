@@ -18,7 +18,7 @@ def hopper
   end
     
     programmer_hash => {
-      [:known_for] ="COBOL"
+      [:known_for] ="COBOL",
       [:languages] ="COBOL", "FORTRAN"
     }
     puts programmer_hash
