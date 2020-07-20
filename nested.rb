@@ -15,11 +15,13 @@ def hopper
         :languages => ["C"]
       }
     }
+  end
+    
     programmer_hash => {
       :known_for => "COBOL",
       :languages => "COBOL", "FORTRAN"
     }
-end
+    
     puts programmer_hash
    end
    
