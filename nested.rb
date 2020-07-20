@@ -15,8 +15,6 @@ def hopper
       }
     }
     
-    programmer_hash[:grace_hopper] = programmer_hash[:grace_hopper].split()
-    
     return programmer_hash
 end
    
