@@ -41,9 +41,8 @@ def alan_kay_is_known_for
       }
     }
     
-    programmer_hash = {
-      :known_for => "Object Orientation"
-    }
+    programmer_hash = "Object Orientation"
+    
   return programmer_hash
 end
 
