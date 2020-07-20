@@ -16,7 +16,7 @@ def hopper
     }
    
   programmer_hash = {
-    :known_for => ["COBOL"],
+    :known_for => "COBOL",
     :languages => ["COBOL", "FORTRAN"]
   }
     return programmer_hash
