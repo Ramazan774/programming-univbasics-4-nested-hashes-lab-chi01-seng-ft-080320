@@ -17,7 +17,7 @@ def hopper
     }
   end
     
-    programmer_hash [:grace_hopper] = 
+    programmer_hash[:known_for] ="COBOL"
     
     puts programmer_hash
    end
