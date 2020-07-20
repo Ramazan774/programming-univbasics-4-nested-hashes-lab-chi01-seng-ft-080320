@@ -151,7 +151,7 @@ def adding_to_dennis
     
     programmer_hash = {
       :dennis_ritchie => {
-        :languages => ["Smalltalk", "LISP","Assembly"]
+        :languages => ["C", "Assembly"]
       }
     }
     return programmer_hash
