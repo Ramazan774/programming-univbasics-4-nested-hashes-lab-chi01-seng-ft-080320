@@ -18,10 +18,10 @@ def hopper
   end
     
     programmer_hash => {
-      [:known_for] ="COBOL",
-      [:languages] = "COBOL", "FORTRAN"
+      :known_for ="COBOL",
+      :languages = "COBOL", "FORTRAN"
     }
-    puts programmer_hash
+    return programmer_hash
   end
    
 def alan_kay_is_known_for
