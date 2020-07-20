@@ -1,7 +1,6 @@
 
 def hopper
-	programmer_hash = 
- 		{
+	programmer_hash = {
       :grace_hopper => {
         :known_for => "COBOL",
         :languages => ["COBOL", "FORTRAN"]
@@ -17,10 +16,8 @@ def hopper
     }
   end
     
-    programmer_hash => {
-      :known_for ="COBOL",
-      :languages = "COBOL", "FORTRAN"
-    }
+    programmer_hash[:grace_hopper] = programmer_hash[:grace_hopper].split()
+    
     return programmer_hash
   end
    
